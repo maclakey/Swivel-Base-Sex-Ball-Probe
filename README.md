@@ -2,6 +2,9 @@
 Sex ball probe for calibrating offsets between toolheads
 
 This is a ball probe meant to be used with https://github.com/viesturz/NozzleAlign
+<img src="Swivel Base Sex Ball Probe.png"/><img src="Swivel Base Sex Ball Probe_section.png"/>
+
+
 
 BOM: 
 1 - 7mm steel ball
