@@ -19,8 +19,12 @@ some m3 hammer head nuts
 
 Instructions: 
 
+Printing the parts:
+Print the parts using ABS with the standard Voron print settings.
+The .3mf file contains all the parts at their preferred printing orientations.  
+You should not need supports.
+
 Swivel base:
-Print all parts using ABS and the Voron recommended settings.
 Assemble as shown in the CAD file.  
 Carefully insert the heat-set brass threaded insert into the center of the Base Top.  
 The spring goes on the M3x35 SHCS which then goes up through the Base Flange and screws into the brass insert in the base top.
