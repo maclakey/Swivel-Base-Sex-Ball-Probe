@@ -1,7 +1,7 @@
 # Swivel-Base-Sex-Ball-Probe
 Sex ball probe for calibrating offsets between toolheads
 
-This is a ball probe meant to be used with https://github.com/viesturz/NozzleAlign<br>
+This is a ball probe meant to be used with https://github.com/viesturz/NozzleAlign<br><br>
 <img src="Swivel Base Sex Ball Probe.png" height="300"/> <img src="Swivel Base Sex Ball Probe_section.png" height="300"/>
 
 
